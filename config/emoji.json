@@ -1,0 +1,13 @@
+{
+	"cross": ":x:",
+	"tick": ":white_check_mark:",
+	"warning": ":warning:",
+	"loading": ":gear:",
+	"slash": ":information_source: ",
+	"play": "▶️",
+	"stop": "⏹️",
+	"queue": ":receipt:",
+	"success": ":white_check_mark:",
+	"repeat": "🔁",
+	"error": ":x:"
+}
